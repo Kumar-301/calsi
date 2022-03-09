@@ -1,0 +1,36 @@
+.main-container{
+    background: #000000;
+    border-radius: 20px;
+}
+.main-container__input-output{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: right;
+}
+.main-container__error-msg{
+    color: red;
+    font-weight: bold;
+    background-color: #ffffff;
+}
+.main-container__button {
+    font-size: 20px;
+    color: #ffffff80;
+    background-color: #000000;
+    border-width: 2px;
+    border-color: #ff4500;
+    border-style: solid;
+    width: 70px;
+    height: 70px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.history-section{
+    background-color: #808080;
+    color: #000000;
+    border-radius: 20px;
+}
+.li-list{
+    font-size: 20px;
+    font-weight: bold;
+}
